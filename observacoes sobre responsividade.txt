@@ -1,0 +1,5 @@
+Está bem incrível apesar de simples. Aqui creio que a minha ideia foi realizada. não há na vdd
+responsividade. o site foi criado para ser passado lateralmente, de forma que a cada titulo
+um novo conteúdo é revelado. o fundo é o grande diferencial, trazendo uma experiencia unica e 
+divertida com o passar das paginas. 
+Mudanças a se fazer é incluir Media queries para resposividade em dispositivos móveis
